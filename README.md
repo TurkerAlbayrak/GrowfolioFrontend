@@ -1,3 +1,11 @@
+<img width="521" height="326" alt="image" src="https://github.com/user-attachments/assets/7cf979c4-2431-4a0b-974c-51363f3e4b73" />
+<img width="1915" height="987" alt="image" src="https://github.com/user-attachments/assets/5a0de487-9935-4783-92a2-c37e25c99a7a" />
+<img width="1917" height="973" alt="image" src="https://github.com/user-attachments/assets/912e8969-59ff-49b5-94f0-41112b7d67af" />
+<img width="1902" height="983" alt="image" src="https://github.com/user-attachments/assets/036b9357-61b2-4435-add7-93c90c39eec4" />
+<img width="1902" height="982" alt="image" src="https://github.com/user-attachments/assets/aeca36fb-23e7-42d1-a427-573379914752" />
+
+
+
 # Growfolio — Kullanıcı Gelişim Platformu
 
 React (Vite) + Bootstrap ile geliştirilmiş bir kullanıcı gelişim platformu. Şu an örnek hesaplarla giriş yapılmaktadır; proje yapısı Django backend ile gerçek kullanıcı giriş/kayıt sistemine geçişe uygundur.
